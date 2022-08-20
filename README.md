@@ -13,14 +13,23 @@ https://brson.github.io/2020/09/07/near-smart-contracts-rust  -> LINK huong dan 
 
 {
     "name": "my-package",
+    
     "scripts": {
+    
         "build": "cargo build --target wasm32-unknown-unknown --release",
+        
         "postbuild": "cp target/wasm32-unknown-unknown/release/voting_contract.wasm ./res/",
+        
         "test": "asp"
+        
     },
+    
     "devDependencies": {
+    
         "near-sdk-as": "^3.2.3"
+        
     }
+    
 }
   
   -> Va chay lenh   'npm run build'   thi se xuat ra file .wasm o thu muc res
@@ -29,4 +38,5 @@ https://brson.github.io/2020/09/07/near-smart-contracts-rust  -> LINK huong dan 
   ( truoc het phai near login va 'cd res' noi chua file .wasm)
 # Bạn cần liện hệ hay giúp đỡ: 
   FB: https://www.facebook.com/viethappy/
+  
   Email: 19522515@gm.uit.edu.vn
