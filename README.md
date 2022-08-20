@@ -1,5 +1,6 @@
 # Near-VotingContracts
 https://learnnear.club/near-live-contract-review-part-1-voting-contracts/#Structural_Overview
+
 Do dung lượng file lớn nên để thuận tiện em đã up source code lên Drive: https://drive.google.com/drive/folders/11-EaOsojm3jMm0GAVTc7hTPfZYcsAEQ-?usp=sharing
 # Tổng kết kiến thức đạt được:
 - Biết xài VMWARE để giả lập ubuntu trên Win10 và cài đặt các công cụ cần thiết
