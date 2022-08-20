@@ -12,6 +12,7 @@ https://brson.github.io/2020/09/07/near-smart-contracts-rust  -> LINK huong dan 
  Sau khi them file package.json va viet code 
 
 {
+
     "name": "my-package",
     
     "scripts": {
